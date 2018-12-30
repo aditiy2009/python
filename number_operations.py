@@ -1,6 +1,6 @@
 print("I will now count my chickens.")
 
-#operations occurs according to BODMAS
+#operations occurs according to PEDMAS
 print("Hens", 25+30/6)
 
 #% this is mod operations
